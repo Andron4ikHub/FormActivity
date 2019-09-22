@@ -9,3 +9,5 @@ Simple Sign Up form project created by Andron4ikHub
 You should complete all the fields in order to Sign up
 Pasword and Repeat password should match one another!
 Once all the information entered correctly press sign up button
+
+![alt text](https://user-images.githubusercontent.com/54819380/65392506-b2927200-dd43-11e9-9cf4-fbd71b168b80.png)
